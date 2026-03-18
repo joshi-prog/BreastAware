@@ -6,6 +6,6 @@ st.write("This is an AI-based web application for breast cancer risk assessment 
 
 st.success("Application deployed successfully!")
 
-st.write("This system analyzes user input and provides risk levels along with recommendations.")
+st.write("Click below to open the web application:")
 
-st.write("Frontend and backend integration is available in the complete version of the project.")
+st.markdown("[Open Web App](http://localhost:5173/)")
