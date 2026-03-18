@@ -2,8 +2,10 @@ import streamlit as st
 
 st.title("Breast Cancer Risk Assessment System")
 
-st.write("Click below to open the web application")
+st.write("This is an AI-based web application for breast cancer risk assessment and awareness.")
 
-url = "http://localhost:5173"  # your frontend URL
+st.success("Application deployed successfully!")
 
-st.markdown(f"[Open Application]({url})")
+st.write("This system analyzes user input and provides risk levels along with recommendations.")
+
+st.write("Frontend and backend integration is available in the complete version of the project.")
